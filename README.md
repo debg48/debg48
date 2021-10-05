@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on : WebDev
-- 🌱 I’m currently learning : Mern Stack and AWS
+- 🔭 I’m currently working on : Object Detetion using OpenCV
+- 🌱 I’m currently learning : Machine Learning and OpenCV
 - 👯 I’m looking to collaborate on : Any python based project or WebDev project or Cyber Security Projects 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Flask Framework
 - 💬 Ask me about : I am persuing B.Tech in Electronics and Communication and I am A Cyber Security Enthusiast
 - 📫 How to reach me: debgandhar4000@gmail.com
 - 😄 Pronouns: He/His
