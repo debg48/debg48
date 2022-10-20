@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on : Sentiment Analysis
+- 🔭 I’m currently working on : Natural Language Processing
 - 🌱 I’m currently learning : Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on : Any python based project or ML/DL projects 
 - 🤔 I’m looking for help with Flask Framework
