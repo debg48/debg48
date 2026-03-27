@@ -2,7 +2,7 @@
 
 # Hey, I'm Debgandhar 👋
 
-**Electronics & Communication undergrad · Data Science enthusiast · Computer Vision explorer**
+**Master of Engineering (Department of Information Technology, Jadavpur University) · Machine Learning · Computer Vision**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debgandhar-ghosh-1515281b4/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@debgandhar4000)
