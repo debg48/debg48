@@ -1,26 +1,5 @@
-Hey, I'm Debgandhar 👋
-
-**M.E. · Information Technology · Jadavpur University**  
-**Machine Learning · Computer Vision · Deep Learning**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debgandhar-ghosh-1515281b4/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@debgandhar4000)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:debgandhar4000@gmail.com)
-
-</div>
-
----
-
-## 🧠 About Me
-
-- 🔭 Currently building: **Computer Vision projects**
-- 🌱 Learning: **Machine Learning & Deep Learning**
-- 🤝 Open to collaborate on: **Python projects · ML/DL research**
-- 🎓 Pursuing **B.Tech in Electronics & Communication**
-- 💬 Talk to me about: Data Science, CV, or anything Python
-- ⚡ Fun fact: Proudly lazy — which means I write efficient code 😄
-
----
+# 💫 About Me:
+<br>- 🔭 Currently building: **Computer Vision projects**<br>- 🌱 Learning: **Machine Learning & Deep Learning**<br>- 🤝 Open to collaborate on: **Python projects · ML/DL research**<br>- 🎓 Pursuing **B.Tech in Electronics & Communication**<br>- 💬 Talk to me about: Data Science, CV, or anything Python<br>- ⚡ Fun fact: Proudly lazy — which means I write efficient code 😄
 
 
 ## 🌐 Socials:
@@ -32,6 +11,9 @@ Hey, I'm Debgandhar 👋
 ![](https://github-readme-stats.vercel.app/api?username=debg48&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=debg48&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debg48&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=debg48&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
