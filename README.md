@@ -52,11 +52,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debg48&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debg48&theme=radical&hide_border=true&layout=compact&langs_count=8&exclude_repo=&hide=jupyter%20notebook,html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debg48&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=jupyter%20notebook)
 
 </div>
-
-> 💡 **Stats not updating?** Make sure your repos are **public**, and go to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — you may need to self-host the Vercel instance or use the official deploy to get private commit counts reflected.
 
 ---
 
