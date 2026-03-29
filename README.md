@@ -2,7 +2,8 @@
 
 # Hey, I'm Debgandhar 👋
 
-**Master of Engineering (Department of Information Technology, Jadavpur University) · Machine Learning · Computer Vision**
+**M.E. · Information Technology · Jadavpur University**  
+**Machine Learning · Computer Vision · Deep Learning**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debgandhar-ghosh-1515281b4/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@debgandhar4000)
@@ -39,6 +40,7 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ---
 
@@ -46,13 +48,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debg48&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debg48&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debg48&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debg48&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debg48&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debg48&theme=radical&hide_border=true&layout=compact&langs_count=8&exclude_repo=&hide=jupyter%20notebook,html)
 
 </div>
+
+> 💡 **Stats not updating?** Make sure your repos are **public**, and go to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — you may need to self-host the Vercel instance or use the official deploy to get private commit counts reflected.
 
 ---
 
@@ -60,7 +64,7 @@
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
