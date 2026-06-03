@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 Currently building: **Computer Vision projects**<br>- 🌱 Learning: **Machine Learning & Deep Learning**<br>- 🤝 Open to collaborate on: **Python projects · ML/DL research**<br>- 🎓 Pursuing **B.Tech in Electronics & Communication**<br>- 💬 Talk to me about: Data Science, CV, or anything Python<br>- ⚡ Fun fact: Proudly lazy — which means I write efficient code 😄
+<br>- 🔭 Currently building: **Computer Vision projects**<br>- 🌱 Learning: **Machine Learning & Deep Learning**<br>- 🤝 Open to collaborate on: **Python projects · ML/DL research**<br>- 🎓 Pursuing **M.Eng. in Information Technology @ Jadavpur University **<br>- 💬 Talk to me about: Data Science, CV, or anything Python<br>- ⚡ Fun fact: Proudly lazy — which means I write efficient code 😄
 
 
 ## 🌐 Socials:
